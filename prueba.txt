@@ -3,9 +3,3 @@ pa las que sea.
 
 codigo...
 
-
-codigo 2....
-
-
-if(.....){
-}
